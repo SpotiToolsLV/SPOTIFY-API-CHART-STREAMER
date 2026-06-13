@@ -31,15 +31,18 @@ SPOTIFY API CHART STREAMER gives you pure API access to streaming flows—no bro
 
 https://t.me/SpotiTools
 
+Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
+
 
 ## DISCORD [@SpotiTools]
 
 https://discord.gg/KAmNT3J8fc
 
+Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
+
 
 https://github.com/user-attachments/assets/7060e4ef-56f7-43e7-a991-666f007f0e5f
 
-Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
 
 ## Disclaimer
 This tool is intended for educational and ethical use only. It is strictly prohibited to use this tool to harm, harass, or misuse in violation of Spotify or any platform’s Terms of Service. The authors are not responsible for any misuse of this tool.
