@@ -27,18 +27,16 @@ SPOTIFY API CHART STREAMER gives you pure API access to streaming flows—no bro
 
 ▫️ A Lot Of More Features
 
+Contact our support via a ticket in our Discord channel or via telegram and request a demo without any cost associated.
+
 ## TELEGRAM [@SpotiTools]
 
 https://t.me/SpotiTools
-
-Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
 
 
 ## DISCORD [@SpotiTools]
 
 https://discord.gg/KAmNT3J8fc
-
-Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
 
 
 https://github.com/user-attachments/assets/7060e4ef-56f7-43e7-a991-666f007f0e5f
