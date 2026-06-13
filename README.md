@@ -1,5 +1,8 @@
 # SPOTIFY API CHART STREAMER
-SPOTIFY API CHART STREAMER - GET YOUR SONG IN SPOTIFY TOP 50
+
+**Unlock the full potential of your music-streaming campaigns with a lightweight, API-driven powerhouse built for professionals.**
+
+SPOTIFY API CHART STREAMER gives you pure API access to streaming flows—no browsers or desktop clients required—powered by advanced device spoofing technology designed to maximize reach and help your music gain Spotify charts streams.
 
 ## Key Features:
 ▫️ Chart Streaming (Streams Counts Towards Spotify Charts)
@@ -36,7 +39,7 @@ https://discord.gg/KAmNT3J8fc
 
 https://github.com/user-attachments/assets/7060e4ef-56f7-43e7-a991-666f007f0e5f
 
-
+Contact our support via a ticket in our Discord channel or telegram and request a demo without any cost associated.
 
 ## Disclaimer
 This tool is intended for educational and ethical use only. It is strictly prohibited to use this tool to harm, harass, or misuse in violation of Spotify or any platform’s Terms of Service. The authors are not responsible for any misuse of this tool.
